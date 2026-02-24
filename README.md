@@ -16,7 +16,7 @@ Hello, welcome to my profile. Please enjoy what I have created. My main skills a
 ![](https://github-profile-trophy.vercel.app/?username=yanzyuyu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yanzyuyu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![]([https://github-contributor-stats.vercel.app/api?username=yanzyuyu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true](https://github-contributor-stats.vercel.app/api?username=yanzyuyu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yanzyuyu&icon=10&color=0)](https://visitcount.itsvg.in)
