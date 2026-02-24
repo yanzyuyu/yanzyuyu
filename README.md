@@ -12,8 +12,6 @@ Hello, welcome to my profile. Please enjoy what I have created. My main skills a
 ![](https://nirzak-streak-stats.vercel.app/?user=yanzyuyu&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanzyuyu&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yanzyuyu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yanzyuyu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
