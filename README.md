@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello, welcome to my profile. Please enjoy what I have created. My main skills are HTML, Tailwind, CSS, and basic JavaScript.
+# About Me:
+Hello everyone, welcome to my profile. Please enjoy what I have created. My main skills are HTML, Tailwind, CSS, and basic JavaScript.
 
 
 ## 🌐 Socials:
