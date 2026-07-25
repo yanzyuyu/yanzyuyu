@@ -1,66 +1,83 @@
 <div align="center">
 
-  <!-- Header Animasi Teks Ketik (Font Poppins Bold) -->
+  <!-- header typing animation with bold poppins -->
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Halo!+Selamat+Datang+di+Profil+Gua+👋;Suka+Ngoprek+HTML%2C+CSS+%26+Tailwind;Yuk+Bikin+Sesuatu+Yang+Keren+Bareng!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=welcome+to+my+profile;building+clean+web+stuff;html+%2b+tailwind+%2b+javascript" alt="typing svg" />
   </a>
 
   <p align="center">
-    <b>Seneng banget lu bisa mampir ke sini!</b><br>
-    Gua seneng eksplorasi dunia web development, bikin tampilan web yang rapi, bersih, dan enak dilihat. Feel free buat liat-liat hasil karya gua di bawah ya! ✨
+    hey there, thanks for dropping by. feel free to check out what i have created so far.
   </p>
 
-  <!-- Garis Pembatas Animasi Glow -->
+  <!-- glowing line divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-852b-11b5616738f4.gif" width="100%">
 
 </div>
 
-## ☕ Kenalan Lebih Dekat
+<!-- section: intro / html style format -->
+<code>&lt;section id="about-me"&gt;</code>
 
-Gua lagi fokus memperdalam ilmu *Frontend Development*. Buat saat ini, senjata utama yang sering gua pake sehari-hari buat ngoding antara lain:
+<br>
 
-* 🎨 **Bikin Tampilan Web:** HTML5, CSS3, & Tailwind CSS (suka banget bikin layout yang simpel & responsif).
-* ⚡ **Logika Sederhana:** JavaScript dasar & Python buat bantu-bantu *scripting*.
-* 🛠️ **Terminal & Tools:** Windows Terminal, Bash, dan PowerShell buat alur kerja harian.
+<table width="100%">
+<tr>
+<td>
+<code>&lt;p&gt;</code>
+<br>
+&nbsp;&nbsp;i enjoy building clean and responsive web interfaces. mostly focused on frontend layouting, tweaking css, and learning new tools step by step.
+<br>
+<code>&lt;/p&gt;</code>
+</td>
+</tr>
+</table>
+
+<br>
+
+<code>&lt;/section&gt;</code>
 
 ---
 
-## 📌 Yuk Koneksi / Mampir ke YouTube Gua
-
-Dukung atau sekadar sapa gua di channel YouTube berikut:
-
-<div align="left">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@iynzzzzzz)
-
-</div>
-
----
-
-## 💻 Amunisi & Tech Stack
+<!-- section: socials -->
+<code>&lt;section id="socials"&gt;</code>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <br/>
-  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <a href="https://youtube.com/@iynzzzzzz">
+    <img src="https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
+
+<code>&lt;/section&gt;</code>
+
+---
+
+<!-- section: tech stack -->
+<code>&lt;section id="tech-stack"&gt;</code>
+
+<p align="left">
+  <!-- svg icons for clean tech look -->
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="html5" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="tailwindcss" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="javascript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" width="36" height="36" alt="windows terminal" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="36" height="36" alt="bash" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" width="36" height="36" alt="powershell" />
+</p>
+
+<code>&lt;/section&gt;</code>
 
 ---
 
 <div align="center">
-  <!-- Banner Gelombang Animasi -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38b2ac&height=100&section=header"/>
+  <!-- waving header illustration -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38b2ac&height=80&section=header"/>
 
   <br/>
 
-  <!-- Counter Pengunjung -->
-  <p>👀 <i>Jumlah orang yang udah mampir ke profil ini:</i></p>
+  <!-- visitor count -->
+  <code>&lt;!-- visitor count --&gt;</code>
+  <br><br>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yanzyuyu&icon=10&color=6" alt="Visitor Counter" />
+    <img src="https://visitcount.itsvg.in/api?id=yanzyuyu&icon=10&color=6" alt="visitor counter" />
   </a>
 </div>
