@@ -22,24 +22,22 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="20" height="20" valign="middle" /> yanzyuyu@arch-termux ~ % neofetch
+### neofetch --system
 
-<pre style="background: #0f172a; padding: 18px; border-radius: 8px; border: 1.5px solid #1793d1; font-family: 'Fira Code', monospace; line-height: 1.4; overflow-x: auto;">
-<font color="#1793D1">       /\          </font> <font color="#1793D1"><b>yanzyuyu@arch-termux</b></font>
-<font color="#1793D1">      /  \         </font> <font color="#8b949e">--------------------</font>
-<font color="#1793D1">     /\   \        </font> <font color="#1793D1"><b>os:</b></font> arch linux x86_64 / termux (android)
-<font color="#1793D1">    /      \       </font> <font color="#1793D1"><b>host:</b></font> terminal dev machine
-<font color="#1793D1">   /   ,,   \      </font> <font color="#1793D1"><b>shell:</b></font> zsh / bash
-<font color="#1793D1">  /   |  |  -\     </font> <font color="#1793D1"><b>editor:</b></font> neovim / visual studio code
-<font color="#1793D1"> /_-''    ''-_     </font> <font color="#1793D1"><b>stack:</b></font> html5, tailwind css, javascript, python
-                   <font color="#1793D1"><b>motto:</b></font> btw i use arch linux &amp; termux
-
-                   <font color="#ff5f56">███</font><font color="#ffbd2e">███</font><font color="#27c93f">███</font><font color="#1793d1">███</font><font color="#10b981">███</font><font color="#ffffff">███</font>
-</pre>
+```text
+       /\          yanzyuyu@arch-termux
+      /  \         --------------------
+     /\   \        os        : arch linux x86_64 / termux (android)
+    /      \       host      : terminal dev machine
+   /   ,,   \      shell     : zsh / bash
+  /   |  |  -\     editor    : neovim / visual studio code
+ /_-''    ''-_     stack     : html5, tailwind css, javascript, python
+                   motto     : btw i use arch linux & termux
+```
 
 ---
 
-### <img src="https://cdn.simpleicons.org/gnubash/1793D1" width="20" height="20" valign="middle" /> developer.config.js
+### developer.config.js
 
 ```javascript
 const developer = {
@@ -53,46 +51,36 @@ const developer = {
 
 ---
 
-### <img src="https://cdn.simpleicons.org/simpleicons/1793D1" width="20" height="20" valign="middle" /> tech stack & skills
+### tech stack & skills
 
-<table width="100%">
-  <tr>
-    <td width="30" align="center" valign="middle"><img src="https://cdn.simpleicons.org/archlinux/1793D1" width="18" height="18" alt="arch"/></td>
-    <td valign="middle"><b>arch linux</b> — main linux distribution for system customization &amp; dev workflow</td>
-  </tr>
-  <tr>
-    <td width="30" align="center" valign="middle"><img src="https://cdn.simpleicons.org/android/1793D1" width="18" height="18" alt="android"/></td>
-    <td valign="middle"><b>termux / android</b> — portable linux terminal environment on mobile for dev sessions</td>
-  </tr>
-  <tr>
-    <td width="30" align="center" valign="middle"><img src="https://cdn.simpleicons.org/gnubash/1793D1" width="18" height="18" alt="bash"/></td>
-    <td valign="middle"><b>gnu bash</b> — shell environment &amp; cli scripting for system automation</td>
-  </tr>
-  <tr>
-    <td width="30" align="center" valign="middle"><img src="https://cdn.simpleicons.org/html5/1793D1" width="18" height="18" alt="html5"/></td>
-    <td valign="middle"><b>html5</b> — semantic markup &amp; structure for web applications</td>
-  </tr>
-  <tr>
-    <td width="30" align="center" valign="middle"><img src="https://cdn.simpleicons.org/tailwindcss/1793D1" width="18" height="18" alt="tailwind"/></td>
-    <td valign="middle"><b>tailwind css</b> — utility-first css framework for responsive layouting</td>
-  </tr>
-  <tr>
-    <td width="30" align="center" valign="middle"><img src="https://cdn.simpleicons.org/javascript/1793D1" width="18" height="18" alt="js"/></td>
-    <td valign="middle"><b>javascript</b> — client-side logic &amp; web interactivity</td>
-  </tr>
-  <tr>
-    <td width="30" align="center" valign="middle"><img src="https://cdn.simpleicons.org/python/1793D1" width="18" height="18" alt="python"/></td>
-    <td valign="middle"><b>python</b> — automation scripts &amp; utility tools</td>
-  </tr>
-  <tr>
-    <td width="30" align="center" valign="middle"><img src="https://cdn.simpleicons.org/git/1793D1" width="18" height="18" alt="git"/></td>
-    <td valign="middle"><b>git</b> — version control &amp; repository management</td>
-  </tr>
-</table>
+```text
+[ system & shell environment ]
+arch linux      : main linux distribution for system customization & dev workflow
+termux / android: portable linux terminal environment on mobile for dev sessions
+gnu bash        : shell environment & cli scripting for system automation
+
+[ web frontend & scripting ]
+html5           : semantic markup & structure for web applications
+tailwind css    : utility-first css framework for responsive layouting
+javascript      : client-side logic & web interactivity
+python          : automation scripts & utility tools
+git             : version control & repository management
+```
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="32" height="32" alt="arch linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/android/1793D1" width="32" height="32" alt="android" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/1793D1" width="32" height="32" alt="bash" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/1793D1" width="32" height="32" alt="html5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/1793D1" width="32" height="32" alt="tailwind" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/1793D1" width="34" height="34" alt="javascript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/1793D1" width="32" height="32" alt="python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/1793D1" width="32" height="32" alt="git" />
+</p>
 
 ---
 
-### <img src="https://cdn.simpleicons.org/github/1793D1" width="20" height="20" valign="middle" /> github metrics & activity log
+### github metrics & activity log
 
 <div align="center">
 
