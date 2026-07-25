@@ -1,14 +1,25 @@
-# About Me:
-Hello everyone, welcome to my profile. Please enjoy what I have created. My main skills are HTML, Tailwind, CSS, and basic JavaScript.
+<div align="center">
 
+  <!-- Efek Banner Typing / Text Animasi -->
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+Profil+Saya!;Frontend+%26+Web+Developer;Creating+Elegant+Web+Experiences" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iynzzzzzz)
+  <p align="center">
+    <i>Haloo! Terima kasih sudah mampir. Selamat menikmati hasil karya yang telah saya buat! 🚀</i>
+  </p>
 
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <!-- Divider Animasi Glowing -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-852b-11b5616738f4.gif" width="100%">
 
----
-[![](https://visitcount.itsvg.in/api?id=yanzyuyu&icon=10&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✦ Tentang Saya
+
+```yaml
+Fokus Utama: Frontend Development & UI/UX Design
+Keahlian:
+  - HTML5 & CSS3
+  - Tailwind CSS
+  - Basic JavaScript
+Status: Siap Belajar & Berkolaborasi ✨
