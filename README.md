@@ -9,7 +9,7 @@
 
   <!-- Social Links -->
   <p align="center">
-    <a href="https://youtube.com/@iynzzzzzz">
+    <a href="https://youtube.com/@ynzstoreys">
       <img src="https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
     </a>
     &nbsp;&nbsp;
