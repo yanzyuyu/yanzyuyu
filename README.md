@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=M. Harun Ar Royyan;Fullstack+Developer;Cyber+Security" alt="Header Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=M.HarunArRoyyan;Fullstack+Developer;Cyber+Security" alt="Header Animation" />
   </a>
 
   <p><b>Building web applications & exploring security mechanics.</b></p>
