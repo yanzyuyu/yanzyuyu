@@ -60,7 +60,7 @@
   <h3>GitHub Statistics</h3>
   <br/>
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yanzyuyu&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&bg_color=0d1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yanzyuyu&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&bg_color=0d1117?refresh=true" alt="GitHub Stats" height="150" />
   &nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yanzyuyu&layout=compact&theme=dark&hide_border=true&title_color=38bdf8&bg_color=0d1117" alt="Top Languages" height="150" />
 
